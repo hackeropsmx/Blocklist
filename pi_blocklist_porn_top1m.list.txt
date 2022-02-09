@@ -1,13 +1,13 @@
-# Title: chadmayfield/hosts
+# Title: Block the porno
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 07 February 2022 17:23:40 (UTC)
-# Number of unique domains: 100,796
+# Date: 08 February 2022 17:23:40 (UTC)
+# Number of unique domains: ??
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-#
+# persolanizada para y por hackerops
 # ===============================================================
 
 127.0.0.1 localhost
