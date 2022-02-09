@@ -831,6 +831,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thegay.com
 0.0.0.0 waybig.com
 0.0.0.0 smutty.com
+0.0.0.0 onlyfans.com
 0.0.0.0 onlytease.com
 0.0.0.0 mangaupdates.com
 0.0.0.0 bbspink.com
